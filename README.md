@@ -1,2 +1,2 @@
 # HR-Analytics-Dashboard
-HR - Analysis on KPI's
+HR - Analysis on KPI's (Power BI)
